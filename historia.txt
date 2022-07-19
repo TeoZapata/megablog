@@ -1,3 +1,1 @@
-este es un cambio de improvisto para probar cat
-pude agregar estecambio en git para llevarlo hasta una pc remota
-lo pude agregar desde otra rama 
+Tuvimos que cerrar todo para empezar de nuevo
